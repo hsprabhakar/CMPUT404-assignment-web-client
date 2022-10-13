@@ -7,6 +7,12 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a simple web-client like curl or wget
 
+
+## References
+* Notes
+* https://www.codementor.io/@joaojonesventura/building-a-basic-http-server-from-scratch-in-python-1cedkg0842
+* https://www.digitalocean.com/community/tutorials/python-http-client-request-get-post
+* Python docs on split function and urllib
 Contributors / Licensing
 ========================
 
